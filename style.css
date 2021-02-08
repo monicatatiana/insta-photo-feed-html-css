@@ -1,0 +1,231 @@
+
+
+#navbar{
+    background:fuchsia;
+    
+}
+
+#titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    background: fuchsia;
+    border: 15px;
+    padding: 25px;
+    
+    color: white;
+}
+
+.card {
+  text-align: center;
+  display: inline-block;
+  background: white;
+  margin: auto;
+  height: 300px;
+  
+  width: 350px;
+  padding: 20px;
+  padding-top: 180px;
+  border: 1px solid grey;
+  border-radius: 8px;
+  position: relative;
+  left: 400px;
+}
+#perfil{
+    position: absolute;
+  top: 40px;
+  margin-left: 30px;
+}
+
+#inicio {
+  position: absolute;
+  top: 8px;
+  left: 60px;
+  font-size: 15px;
+  display: inline-block;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: 20px;
+}
+#imagen{
+    position: absolute;
+  top: 70px;
+  left: 50px;
+  font-size: 15px;
+  
+  width: 80px;
+  height: 80px;
+}
+#likes{
+    position: absolute;
+    bottom: 70px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: medium;
+    justify-content: center;
+    margin-left: 30px;
+}
+#texto{
+    position: absolute;
+    bottom: 27px;
+    font-family: 'Rubik', sans-serif;
+    justify-content: center;
+    padding-left: 15px;
+
+}
+#simbol{
+    position: absolute;
+    bottom: 90px;
+    margin: 15px;
+    
+}
+#icono3 {
+    margin-left: 10px;
+}
+#icono2{
+    margin-left: 10px;
+}
+#icono1 {
+    margin-left: 14px;
+}
+
+.card2 {
+  text-align: center;
+  display: inline-block;
+  background: white;
+  margin: auto;
+  height: 300px;
+  
+  width: 350px;
+  padding: 20px;
+  padding-top: 180px;
+  border: 1px solid grey;
+  border-radius: 8px;
+  position: relative;
+  left: 6px;
+  top: 600px
+}
+#erfil{
+    position: absolute;
+  top: 40px;
+  margin-left: 30px;
+}
+
+#inicio {
+  position: absolute;
+  top: 8px;
+  left: 60px;
+  font-size: 15px;
+  display: inline-block;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: 20px;
+}
+#imagen{
+    position: absolute;
+  top: 70px;
+  left: 50px;
+  font-size: 15px;
+  
+  width: 80px;
+  height: 80px;
+}
+#likes{
+    position: absolute;
+    bottom: 70px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: medium;
+    justify-content: center;
+    margin-left: 30px;
+}
+#texto{
+    position: absolute;
+    bottom: 27px;
+    font-family: 'Rubik', sans-serif;
+    justify-content: center;
+    padding-left: 15px;
+
+}
+#simbol{
+    position: absolute;
+    bottom: 90px;
+    margin: 15px;
+    
+}
+#icono3 {
+    margin-left: 10px;
+}
+#icono2{
+    margin-left: 10px;
+}
+#icono1 {
+    margin-left: 14px;
+}
+
+.card3 {
+  text-align: center;
+  display: inline-block;
+  background: white;
+  margin: auto;
+  height: 300px;
+  
+  width: 350px;
+  padding: 20px;
+  padding-top: 180px;
+  border: 1px solid grey;
+  border-radius: 8px;
+  position: relative;
+  right: 390px;
+  top: 1200px;
+  
+}
+#perfil{
+    position: absolute;
+  top: 40px;
+  margin-left: 30px;
+}
+
+#inicio {
+  position: absolute;
+  top: 8px;
+  left: 60px;
+  font-size: 15px;
+  display: inline-block;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: 20px;
+}
+#imagen{
+    position: absolute;
+  top: 70px;
+  left: 50px;
+  font-size: 15px;
+  
+  width: 80px;
+  height: 80px;
+}
+#likes{
+    position: absolute;
+    bottom: 70px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: medium;
+    justify-content: center;
+    margin-left: 30px;
+}
+#texto{
+    position: absolute;
+    bottom: 27px;
+    font-family: 'Rubik', sans-serif;
+    justify-content: center;
+    padding-left: 15px;
+
+}
+#simbol{
+    position: absolute;
+    bottom: 90px;
+    margin: 15px;
+    
+}
+#icono3 {
+    margin-left: 10px;
+}
+#icono2{
+    margin-left: 10px;
+}
+#icono1 {
+    margin-left: 14px;
+}
